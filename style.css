@@ -1,0 +1,52 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+
+
+.table {
+    width: 600px;
+    height: 600px;
+    border: solid 1px #DDDDDD;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+th {
+    font-size: 13px;
+    color: #999999;
+    font-weight: 400;
+
+}
+
+
+
+table {
+    border: 1px solid #DDDDDD ;
+    
+ 
+
+}
+td {
+    text-align: center;
+    font-size: 14px;
+    border-left: none;
+    border-right: none;
+    
+}
+
+.destaque {
+    background-color: #F7F7F7; 
+    font-size: 14px;
+    
+
+}
+.time {
+    display: flex;
+    justify-content: flex-start;
+    font-size: 14px;
+    color: #666666;
+    font-weight: 600;
+}
